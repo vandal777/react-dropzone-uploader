@@ -19,6 +19,6 @@ examples/src/index.js
 .env
 
 **/*.js
-**/*.d.ts
+
 
 package-lock.json
