@@ -18,7 +18,5 @@ examples/src/index.js
 .DS_Store
 .env
 
-**/*.js
-
 
 package-lock.json
